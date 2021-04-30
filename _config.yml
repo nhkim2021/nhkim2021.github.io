@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "김나현"
-  avatar           : "/assets/images/파일이름.png"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Screenshot_20210430-102046_Gallery.jpg.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "학생"
   location         : "대한민국, 서울"
   email            : "njoy0805@gmail.com"
