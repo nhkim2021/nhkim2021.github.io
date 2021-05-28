@@ -14,7 +14,6 @@ title: "내 최애 애니메이션"
 --- 
 ### ★ Avatar: The Last Airbender
 ![아바타_포스터][아바타] 
-
 [아바타] :  
 https://i.pinimg.com/564x/6f/e3/d7/6fe3d7c5831e3f6f0d48a9086cf6b7e2.jpg
 
