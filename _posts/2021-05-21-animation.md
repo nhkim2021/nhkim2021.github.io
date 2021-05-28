@@ -19,6 +19,8 @@ https://i.pinimg.com/564x/6f/e3/d7/6fe3d7c5831e3f6f0d48a9086cf6b7e2.jpg
 
 nickelodeon 에서 2005년에 출시한 작품이며, 현재 netflix 에서도 방영된 작품이다. 미국에서 만든 애니메이션이다.
 
+--> 선생님 이거 사진이 안뜨고 제가 입력한 코드가 그대로 뜨는데 어떻게 고칠 수 있나요 ㅠ
+
 --- 
 ### ★ 명탐정 코난(名探偵コナン)
 [![코난](/assets/images/코난.jpg "더 자세한 내용을 원하시면 방문해 보세요 ")](https://www.ilemonde.com/news/articleView.html?idxno=14601) 
