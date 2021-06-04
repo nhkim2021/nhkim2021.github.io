@@ -13,9 +13,9 @@ title: "내 최애 애니메이션"
 
 --- 
 ### ★ Avatar: The Last Airbender
-![avatar][avatar] 
-[avatar]:  
-https://i.pinimg.com/564x/6f/e3/d7/6fe3d7c5831e3f6f0d48a9086cf6b7e2.jpg
+![avatar][avatar]
+
+[avatar]: https://i.pinimg.com/564x/6f/e3/d7/6fe3d7c5831e3f6f0d48a9086cf6b7e2.jpg
 
 nickelodeon 에서 2005년에 출시한 작품이며, 현재 netflix 에서도 방영된 작품이다. 미국에서 만든 애니메이션이다.
 
