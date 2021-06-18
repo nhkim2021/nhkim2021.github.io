@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true 
 toc_label: "페이지 주요 목차" 
 categories: 수행평가 
-last_modified_at: 2021-06-17 T08:06:00-05:00 
+last_modified_at: 2021-06-18 T08:10:00-11:00 
 ---
 
 지금까지 상영된 에니메이션중 내가 가장 좋아하는 작품들을 소개하고자 한다. 
