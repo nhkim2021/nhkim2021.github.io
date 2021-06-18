@@ -8,6 +8,5 @@ categories: 수행평가
 last_modified_at: 2021-06-17 T08:06:00-05:00 
 --- 
 
----
 
 {% include video id="PRkI15fIJ1w" provider="youtube" %}
