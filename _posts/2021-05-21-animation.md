@@ -4,7 +4,7 @@ title: "내 최애 애니메이션"
 toc: true 
 toc_sticky: true 
 toc_label: "페이지 주요 목차" 
-categories: 수행평가 
+categories: 취미 
 last_modified_at: 2021-06-18 T08:10:00-11:00 
 ---
 
